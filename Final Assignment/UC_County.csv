@@ -1,0 +1,3277 @@
+10001,Alabama,101
+10002,Autauga,101
+10003,Baldwin,101
+10004,Barbour,101
+10005,Bibb,101
+10006,Blount,101
+10007,Bullock,101
+10008,Butler,101
+10009,Calhoun,101
+10010,Chambers,101
+10011,Cherokee,101
+10012,Chilton,101
+10013,Choctaw,101
+10014,Clarke,101
+10015,Clay,101
+10016,Cleburne,101
+10017,Coffee,101
+10018,Colbert,101
+10019,Conecuh,101
+10020,Coosa,101
+10021,Covington,101
+10022,Crenshaw,101
+10023,Cullman,101
+10024,Dale,101
+10025,Dallas,101
+10026,DeKalb,101
+10027,Elmore,101
+10028,Escambia,101
+10029,Etowah,101
+10030,Fayette,101
+10031,Franklin,101
+10032,Geneva,101
+10033,Greene,101
+10034,Hale,101
+10035,Henry,101
+10036,Houston,101
+10037,Jackson,101
+10038,Jefferson,101
+10039,Lamar,101
+10040,Lauderdale,101
+10041,Lawrence,101
+10042,Lee,101
+10043,Limestone,101
+10044,Lowndes,101
+10045,Macon,101
+10046,Madison,101
+10047,Marengo,101
+10048,Marion,101
+10049,Marshall,101
+10050,Mobile,101
+10051,Monroe,101
+10052,Montgomery,101
+10053,Morgan,101
+10054,Perry,101
+10055,Pickens,101
+10056,Pike,101
+10057,Randolph,101
+10058,Russell,101
+10059,Saint Clair ,101
+10060,Shelby,101
+10061,St. Clair,101
+10062,Sumter,101
+10063,Talladega,101
+10064,Tallapoosa,101
+10065,Tuscaloosa,101
+10066,Walker,101
+10067,Washington,101
+10068,Wilcox,101
+10069,Winston,101
+10070,Alaska,102
+10071,Aleutians East Borough,102
+10072,Aleutians West Census Area,102
+10073,Anchorage Municipality,102
+10074,Bethel Census Area,102
+10075,Bristol Bay Borough,102
+10076,Denali Borough,102
+10077,Dillingham Census Area,102
+10078,Fairbanks North Star Borough,102
+10079,Haines Borough,102
+10080,Hoonah-Angoon Census Area,102
+10081,Juneau City and Borough,102
+10082,Kenai Peninsula Borough,102
+10083,Ketchikan Gateway Borough,102
+10084,Kodiak Island Borough,102
+10085,Kusilvak Census Area,102
+10086,Lake and Peninsula Borough,102
+10087,Matanuska-Susitna Borough,102
+10088,Nome Census Area,102
+10089,North Slope Borough,102
+10090,Northwest Arctic Borough,102
+10091,Petersburg Borough,102
+10092,Prince of Wales-Hyder Census Area,102
+10093,Sitka City and Borough,102
+10094,Skagway Municipality,102
+10095,Southeast Fairbanks Census Area,102
+10096,Valdez-Cordova Census Area,102
+10097,Wrangell City and Borough,102
+10098,Yakutat City and Borough,102
+10099,Yukon-Koyukuk Census Area,102
+10100,Apache,103
+10101,Arizona,103
+10102,Cochise,103
+10103,Coconino,103
+10104,Gila,103
+10105,Graham,103
+10106,Greenlee,103
+10107,La Paz,103
+10108,Maricopa,103
+10109,Mohave,103
+10110,Navajo,103
+10111,Pima,103
+10112,Pinal,103
+10113,Santa Cruz,103
+10114,Yavapai,103
+10115,Yuma,103
+10116,Arkansas,104
+10117,Ashley,104
+10118,Baxter,104
+10119,Benton,104
+10120,Boone,104
+10121,Bradley,104
+10122,Calhoun,104
+10123,Carroll,104
+10124,Chicot,104
+10125,Clark,104
+10126,Clay,104
+10127,Cleburne,104
+10128,Cleveland,104
+10129,Columbia,104
+10130,Conway,104
+10131,Craighead,104
+10132,Crawford,104
+10133,Crittenden,104
+10134,Cross,104
+10135,Dallas,104
+10136,Desha,104
+10137,Drew,104
+10138,Faulkner,104
+10139,Franklin,104
+10140,Fulton,104
+10141,Garland,104
+10142,Grant,104
+10143,Greene,104
+10144,Hempstead,104
+10145,Hot Spring,104
+10146,Howard,104
+10147,Independence,104
+10148,Izard,104
+10149,Jackson,104
+10150,Jefferson,104
+10151,Johnson,104
+10152,Lafayette,104
+10153,Lawrence,104
+10154,Lee,104
+10155,Lincoln,104
+10156,Little River,104
+10157,Logan,104
+10158,Lonoke,104
+10159,Madison,104
+10160,Marion,104
+10161,Miller,104
+10162,Mississippi,104
+10163,Monroe,104
+10164,Montgomery,104
+10165,Nevada,104
+10166,Newton,104
+10167,Ouachita,104
+10168,Perry,104
+10169,Phillips,104
+10170,Pike,104
+10171,Poinsett,104
+10172,Polk,104
+10173,Pope,104
+10174,Prairie,104
+10175,Pulaski,104
+10176,Randolph,104
+10177,Saint Francis ,104
+10178,Saline,104
+10179,Scott,104
+10180,Searcy,104
+10181,Sebastian,104
+10182,Sevier,104
+10183,Sharp,104
+10184,St. Francis,104
+10185,Stone,104
+10186,Union,104
+10187,Van Buren,104
+10188,Washington,104
+10189,White,104
+10190,Woodruff,104
+10191,Yell,104
+10192,Alameda,105
+10193,Alpine,105
+10194,Amador,105
+10195,Butte,105
+10196,Calaveras,105
+10197,California,105
+10198,Colusa,105
+10199,Contra Costa,105
+10200,Del Norte,105
+10201,El Dorado,105
+10202,Fresno,105
+10203,Glenn,105
+10204,Humboldt,105
+10205,Imperial,105
+10206,Inyo,105
+10207,Kern,105
+10208,Kings,105
+10209,Lake,105
+10210,Lassen,105
+10211,Los Angeles,105
+10212,Madera,105
+10213,Marin,105
+10214,Mariposa,105
+10215,Mendocino,105
+10216,Merced,105
+10217,Modoc,105
+10218,Mono,105
+10219,Monterey,105
+10220,Napa,105
+10221,Nevada,105
+10222,Orange,105
+10223,Placer,105
+10224,Plumas,105
+10225,Riverside,105
+10226,Sacramento,105
+10227,San Benito,105
+10228,San Bernardino,105
+10229,San Diego,105
+10230,San Francisco,105
+10231,San Joaquin,105
+10232,San Luis Obispo,105
+10233,San Mateo,105
+10234,Santa Barbara,105
+10235,Santa Clara,105
+10236,Santa Cruz,105
+10237,Shasta,105
+10238,Sierra,105
+10239,Siskiyou,105
+10240,Solano,105
+10241,Sonoma,105
+10242,Stanislaus,105
+10243,Sutter,105
+10244,Tehama,105
+10245,Trinity,105
+10246,Tulare,105
+10247,Tuolumne,105
+10248,Ventura,105
+10249,Yolo,105
+10250,Yuba,105
+10251,Adams,106
+10252,Alamosa,106
+10253,Arapahoe,106
+10254,Archuleta,106
+10255,Baca,106
+10256,Bent,106
+10257,Boulder,106
+10258,Broomfield,106
+10259,Chaffee,106
+10260,Cheyenne,106
+10261,Clear Creek,106
+10262,Colorado,106
+10263,Conejos,106
+10264,Costilla,106
+10265,Crowley,106
+10266,Custer,106
+10267,Delta,106
+10268,Denver,106
+10269,Dolores,106
+10270,Douglas,106
+10271,Eagle,106
+10272,El Paso,106
+10273,Elbert,106
+10274,Fremont,106
+10275,Garfield,106
+10276,Gilpin,106
+10277,Grand,106
+10278,Gunnison,106
+10279,Hinsdale,106
+10280,Huerfano,106
+10281,Jackson,106
+10282,Jefferson,106
+10283,Kiowa,106
+10284,Kit Carson,106
+10285,La Plata,106
+10286,Lake,106
+10287,Larimer,106
+10288,Las Animas,106
+10289,Lincoln,106
+10290,Logan,106
+10291,Mesa,106
+10292,Mineral,106
+10293,Moffat,106
+10294,Montezuma,106
+10295,Montrose,106
+10296,Morgan,106
+10297,Otero,106
+10298,Ouray,106
+10299,Park,106
+10300,Phillips,106
+10301,Pitkin,106
+10302,Prowers,106
+10303,Pueblo,106
+10304,Rio Blanco,106
+10305,Rio Grande,106
+10306,Routt,106
+10307,Saguache,106
+10308,San Juan,106
+10309,San Miguel,106
+10310,Sedgwick,106
+10311,Summit,106
+10312,Teller,106
+10313,Washington,106
+10314,Weld,106
+10315,Yuma,106
+10316,Connecticut,107
+10317,Fairfield,107
+10318,Hartford,107
+10319,Litchfield,107
+10320,Middlesex,107
+10321,New Haven,107
+10322,New London,107
+10323,Tolland,107
+10324,Windham,107
+10325,Delaware,108
+10326,Kent,108
+10327,New Castle,108
+10328,Sussex,108
+10329,District of Columbia,109
+10330,Alachua,110
+10331,Baker,110
+10332,Bay,110
+10333,Bradford,110
+10334,Brevard,110
+10335,Broward,110
+10336,Calhoun,110
+10337,Charlotte,110
+10338,Citrus,110
+10339,Clay,110
+10340,Collier,110
+10341,Columbia,110
+10342,DeSoto,110
+10343,Dixie,110
+10344,Duval,110
+10345,Escambia,110
+10346,Flagler,110
+10347,Florida,110
+10348,Franklin,110
+10349,Gadsden,110
+10350,Gilchrist,110
+10351,Glades,110
+10352,Gulf,110
+10353,Hamilton,110
+10354,Hardee,110
+10355,Hendry,110
+10356,Hernando,110
+10357,Highlands,110
+10358,Hillsborough,110
+10359,Holmes,110
+10360,Indian River,110
+10361,Jackson,110
+10362,Jefferson,110
+10363,Lafayette,110
+10364,Lake,110
+10365,Lee,110
+10366,Leon,110
+10367,Levy,110
+10368,Liberty,110
+10369,Madison,110
+10370,Manatee,110
+10371,Marion,110
+10372,Martin,110
+10373,Miami-Dade,110
+10374,Monroe,110
+10375,Nassau,110
+10376,Okaloosa,110
+10377,Okeechobee,110
+10378,Orange,110
+10379,Osceola,110
+10380,Palm Beach,110
+10381,Pasco,110
+10382,Pinellas,110
+10383,Polk,110
+10384,Putnam,110
+10385,Saint Johns ,110
+10386,Saint Lucie ,110
+10387,Santa Rosa,110
+10388,Sarasota,110
+10389,Seminole,110
+10390,St. Johns,110
+10391,St. Lucie,110
+10392,Sumter,110
+10393,Suwannee,110
+10394,Taylor,110
+10395,Union,110
+10396,Volusia,110
+10397,Wakulla,110
+10398,Walton,110
+10399,Washington,110
+10400,Appling,111
+10401,Atkinson,111
+10402,Bacon,111
+10403,Baker,111
+10404,Baldwin,111
+10405,Banks,111
+10406,Barrow,111
+10407,Bartow,111
+10408,Ben Hill,111
+10409,Berrien,111
+10410,Bibb,111
+10411,Bleckley,111
+10412,Brantley,111
+10413,Brooks,111
+10414,Bryan,111
+10415,Bulloch,111
+10416,Burke,111
+10417,Butts,111
+10418,Calhoun,111
+10419,Camden,111
+10420,Candler,111
+10421,Carroll,111
+10422,Catoosa,111
+10423,Charlton,111
+10424,Chatham,111
+10425,Chattahoochee,111
+10426,Chattooga,111
+10427,Cherokee,111
+10428,Clarke,111
+10429,Clay,111
+10430,Clayton,111
+10431,Clinch,111
+10432,Cobb,111
+10433,Coffee,111
+10434,Colquitt,111
+10435,Columbia,111
+10436,Cook,111
+10437,Coweta,111
+10438,Crawford,111
+10439,Crisp,111
+10440,Dade,111
+10441,Dawson,111
+10442,Decatur,111
+10443,DeKalb,111
+10444,Dodge,111
+10445,Dooly,111
+10446,Dougherty,111
+10447,Douglas,111
+10448,Early,111
+10449,Echols,111
+10450,Effingham,111
+10451,Elbert,111
+10452,Emanuel,111
+10453,Evans,111
+10454,Fannin,111
+10455,Fayette,111
+10456,Floyd,111
+10457,Forsyth,111
+10458,Franklin,111
+10459,Fulton,111
+10460,Georgia,111
+10461,Gilmer,111
+10462,Glascock,111
+10463,Glynn,111
+10464,Gordon,111
+10465,Grady,111
+10466,Greene,111
+10467,Gwinnett,111
+10468,Habersham,111
+10469,Hall,111
+10470,Hancock,111
+10471,Haralson,111
+10472,Harris,111
+10473,Hart,111
+10474,Heard,111
+10475,Henry,111
+10476,Houston,111
+10477,Irwin,111
+10478,Jackson,111
+10479,Jasper,111
+10480,Jeff Davis,111
+10481,Jefferson,111
+10482,Jenkins,111
+10483,Johnson,111
+10484,Jones,111
+10485,Lamar,111
+10486,Lanier,111
+10487,Laurens,111
+10488,Lee,111
+10489,Liberty,111
+10490,Lincoln,111
+10491,Long,111
+10492,Lowndes,111
+10493,Lumpkin,111
+10494,Macon,111
+10495,Madison,111
+10496,Marion,111
+10497,McDuffie,111
+10498,McIntosh,111
+10499,Meriwether,111
+10500,Miller,111
+10501,Mitchell,111
+10502,Monroe,111
+10503,Montgomery,111
+10504,Morgan,111
+10505,Murray,111
+10506,Muscogee,111
+10507,Newton,111
+10508,Oconee,111
+10509,Oglethorpe,111
+10510,Paulding,111
+10511,Peach,111
+10512,Pickens,111
+10513,Pierce,111
+10514,Pike,111
+10515,Polk,111
+10516,Pulaski,111
+10517,Putnam,111
+10518,Quitman,111
+10519,Rabun,111
+10520,Randolph,111
+10521,Richmond,111
+10522,Rockdale,111
+10523,Schley,111
+10524,Screven,111
+10525,Seminole,111
+10526,Spalding,111
+10527,Stephens,111
+10528,Stewart,111
+10529,Sumter,111
+10530,Talbot,111
+10531,Taliaferro,111
+10532,Tattnall,111
+10533,Taylor,111
+10534,Telfair,111
+10535,Terrell,111
+10536,Thomas,111
+10537,Tift,111
+10538,Toombs,111
+10539,Towns,111
+10540,Treutlen,111
+10541,Troup,111
+10542,Turner,111
+10543,Twiggs,111
+10544,Union,111
+10545,Upson,111
+10546,Walker,111
+10547,Walton,111
+10548,Ware,111
+10549,Warren,111
+10550,Washington,111
+10551,Wayne,111
+10552,Webster,111
+10553,Wheeler,111
+10554,White,111
+10555,Whitfield,111
+10556,Wilcox,111
+10557,Wilkes,111
+10558,Wilkinson,111
+10559,Worth,111
+10560,Hawaii,112
+10561,Honolulu,112
+10562,Kalawao,112
+10563,Kauai,112
+10564,Maui,112
+10565,Ada,113
+10566,Adams,113
+10567,Bannock,113
+10568,Bear Lake,113
+10569,Benewah,113
+10570,Bingham,113
+10571,Blaine,113
+10572,Boise,113
+10573,Bonner,113
+10574,Bonneville,113
+10575,Boundary,113
+10576,Butte,113
+10577,Camas,113
+10578,Canyon,113
+10579,Caribou,113
+10580,Cassia,113
+10581,Clark,113
+10582,Clearwater,113
+10583,Custer,113
+10584,Elmore,113
+10585,Franklin,113
+10586,Fremont,113
+10587,Gem,113
+10588,Gooding,113
+10589,Idaho,113
+10590,Jefferson,113
+10591,Jerome,113
+10592,Kootenai,113
+10593,Latah,113
+10594,Lemhi,113
+10595,Lewis,113
+10596,Lincoln,113
+10597,Madison,113
+10598,Minidoka,113
+10599,Nez Perce,113
+10600,Oneida,113
+10601,Owyhee,113
+10602,Payette,113
+10603,Power,113
+10604,Shoshone,113
+10605,Teton,113
+10606,Twin Falls,113
+10607,Valley,113
+10608,Washington,113
+10609,Adams,114
+10610,Alexander,114
+10611,Bond,114
+10612,Boone,114
+10613,Brown,114
+10614,Bureau,114
+10615,Calhoun,114
+10616,Carroll,114
+10617,Cass,114
+10618,Champaign,114
+10619,Christian,114
+10620,Clark,114
+10621,Clay,114
+10622,Clinton,114
+10623,Coles,114
+10624,Cook,114
+10625,Crawford,114
+10626,Cumberland,114
+10627,De Witt,114
+10628,DeKalb,114
+10629,Douglas,114
+10630,DuPage,114
+10631,Edgar,114
+10632,Edwards,114
+10633,Effingham,114
+10634,Fayette,114
+10635,Ford,114
+10636,Franklin,114
+10637,Fulton,114
+10638,Gallatin,114
+10639,Greene,114
+10640,Grundy,114
+10641,Hamilton,114
+10642,Hancock,114
+10643,Hardin,114
+10644,Henderson,114
+10645,Henry,114
+10646,Illinois,114
+10647,Iroquois,114
+10648,Jackson,114
+10649,Jasper,114
+10650,Jefferson,114
+10651,Jersey,114
+10652,Jo Daviess,114
+10653,Johnson,114
+10654,Kane,114
+10655,Kankakee,114
+10656,Kendall,114
+10657,Knox,114
+10658,Lake,114
+10659,LaSalle,114
+10660,Lawrence,114
+10661,Lee,114
+10662,Livingston,114
+10663,Logan,114
+10664,Macon,114
+10665,Macoupin,114
+10666,Madison,114
+10667,Marion,114
+10668,Marshall,114
+10669,Mason,114
+10670,Massac,114
+10671,McDonough,114
+10672,McHenry,114
+10673,McLean,114
+10674,Menard,114
+10675,Mercer,114
+10676,Monroe,114
+10677,Montgomery,114
+10678,Morgan,114
+10679,Moultrie,114
+10680,Ogle,114
+10681,Peoria,114
+10682,Perry,114
+10683,Piatt,114
+10684,Pike,114
+10685,Pope,114
+10686,Pulaski,114
+10687,Putnam,114
+10688,Randolph,114
+10689,Richland,114
+10690,Rock Island,114
+10691,Saint Clair,114
+10692,Saline,114
+10693,Sangamon,114
+10694,Schuyler,114
+10695,Scott,114
+10696,Shelby,114
+10697,St. Clair,114
+10698,Stark,114
+10699,Stephenson,114
+10700,Tazewell,114
+10701,Union,114
+10702,Vermilion,114
+10703,Wabash,114
+10704,Warren,114
+10705,Washington,114
+10706,Wayne,114
+10707,White,114
+10708,Whiteside,114
+10709,Will,114
+10710,Williamson,114
+10711,Winnebago,114
+10712,Woodford,114
+10713,Adams,115
+10714,Allen,115
+10715,Bartholomew,115
+10716,Benton,115
+10717,Blackford,115
+10718,Boone,115
+10719,Brown,115
+10720,Carroll,115
+10721,Cass,115
+10722,Clark,115
+10723,Clay,115
+10724,Clinton,115
+10725,Crawford,115
+10726,Daviess,115
+10727,Dearborn,115
+10728,Decatur,115
+10729,DeKalb,115
+10730,Delaware,115
+10731,Dubois,115
+10732,Elkhart,115
+10733,Fayette,115
+10734,Floyd,115
+10735,Fountain,115
+10736,Franklin,115
+10737,Fulton,115
+10738,Gibson,115
+10739,Grant,115
+10740,Greene,115
+10741,Hamilton,115
+10742,Hancock,115
+10743,Harrison,115
+10744,Hendricks,115
+10745,Henry,115
+10746,Howard,115
+10747,Huntington,115
+10748,Indiana,115
+10749,Jackson,115
+10750,Jasper,115
+10751,Jay,115
+10752,Jefferson,115
+10753,Jennings,115
+10754,Johnson,115
+10755,Knox,115
+10756,Kosciusko,115
+10757,LaGrange,115
+10758,Lake,115
+10759,LaPorte,115
+10760,Lawrence,115
+10761,Madison,115
+10762,Marion,115
+10763,Marshall,115
+10764,Martin,115
+10765,Miami,115
+10766,Monroe,115
+10767,Montgomery,115
+10768,Morgan,115
+10769,Newton,115
+10770,Noble,115
+10771,Ohio,115
+10772,Orange,115
+10773,Owen,115
+10774,Parke,115
+10775,Perry,115
+10776,Pike,115
+10777,Porter,115
+10778,Posey,115
+10779,Pulaski,115
+10780,Putnam,115
+10781,Randolph,115
+10782,Ripley,115
+10783,Rush,115
+10784,Saint Joseph ,115
+10785,Scott,115
+10786,Shelby,115
+10787,Spencer,115
+10788,St. Joseph,115
+10789,Starke,115
+10790,Steuben,115
+10791,Sullivan,115
+10792,Switzerland,115
+10793,Tippecanoe,115
+10794,Tipton,115
+10795,Union,115
+10796,Vanderburgh,115
+10797,Vermillion,115
+10798,Vigo,115
+10799,Wabash,115
+10800,Warren,115
+10801,Warrick,115
+10802,Washington,115
+10803,Wayne,115
+10804,Wells,115
+10805,White,115
+10806,Whitley,115
+10807,Adair,116
+10808,Adams,116
+10809,Allamakee,116
+10810,Appanoose,116
+10811,Audubon,116
+10812,Benton,116
+10813,Black Hawk,116
+10814,Boone,116
+10815,Bremer,116
+10816,Buchanan,116
+10817,Buena Vista,116
+10818,Butler,116
+10819,Calhoun,116
+10820,Carroll,116
+10821,Cass,116
+10822,Cedar,116
+10823,Cerro Gordo,116
+10824,Cherokee,116
+10825,Chickasaw,116
+10826,Clarke,116
+10827,Clay,116
+10828,Clayton,116
+10829,Clinton,116
+10830,Crawford,116
+10831,Dallas,116
+10832,Davis,116
+10833,Decatur,116
+10834,Delaware,116
+10835,Des Moines,116
+10836,Dickinson,116
+10837,Dubuque,116
+10838,Emmet,116
+10839,Fayette,116
+10840,Floyd,116
+10841,Franklin,116
+10842,Fremont,116
+10843,Greene,116
+10844,Grundy,116
+10845,Guthrie,116
+10846,Hamilton,116
+10847,Hancock,116
+10848,Hardin,116
+10849,Harrison,116
+10850,Henry,116
+10851,Howard,116
+10852,Humboldt,116
+10853,Ida,116
+10854,Iowa,116
+10855,Jackson,116
+10856,Jasper,116
+10857,Jefferson,116
+10858,Johnson,116
+10859,Jones,116
+10860,Keokuk,116
+10861,Kossuth,116
+10862,Lee,116
+10863,Linn,116
+10864,Louisa,116
+10865,Lucas,116
+10866,Lyon,116
+10867,Madison,116
+10868,Mahaska,116
+10869,Marion,116
+10870,Marshall,116
+10871,Mills,116
+10872,Mitchell,116
+10873,Monona,116
+10874,Monroe,116
+10875,Montgomery,116
+10876,Muscatine,116
+10877,O'Brien,116
+10878,Osceola,116
+10879,Page,116
+10880,Palo Alto,116
+10881,Plymouth,116
+10882,Pocahontas,116
+10883,Polk,116
+10884,Pottawattamie,116
+10885,Poweshiek,116
+10886,Ringgold,116
+10887,Sac,116
+10888,Scott,116
+10889,Shelby,116
+10890,Sioux,116
+10891,Story,116
+10892,Tama,116
+10893,Taylor,116
+10894,Union,116
+10895,Van Buren,116
+10896,Wapello,116
+10897,Warren,116
+10898,Washington,116
+10899,Wayne,116
+10900,Webster,116
+10901,Winnebago,116
+10902,Winneshiek,116
+10903,Woodbury,116
+10904,Worth,116
+10905,Wright,116
+10906,Allen,117
+10907,Anderson,117
+10908,Atchison,117
+10909,Barber,117
+10910,Barton,117
+10911,Bourbon,117
+10912,Brown,117
+10913,Butler,117
+10914,Chase,117
+10915,Chautauqua,117
+10916,Cherokee,117
+10917,Cheyenne,117
+10918,Clark,117
+10919,Clay,117
+10920,Cloud,117
+10921,Coffey,117
+10922,Comanche,117
+10923,Cowley,117
+10924,Crawford,117
+10925,Decatur,117
+10926,Dickinson,117
+10927,Doniphan,117
+10928,Douglas,117
+10929,Edwards,117
+10930,Elk,117
+10931,Ellis,117
+10932,Ellsworth,117
+10933,Finney,117
+10934,Ford,117
+10935,Franklin,117
+10936,Geary,117
+10937,Gove,117
+10938,Graham,117
+10939,Grant,117
+10940,Gray,117
+10941,Greeley,117
+10942,Greenwood,117
+10943,Hamilton,117
+10944,Harper,117
+10945,Harvey,117
+10946,Haskell,117
+10947,Hodgeman,117
+10948,Jackson,117
+10949,Jefferson,117
+10950,Jewell,117
+10951,Johnson,117
+10952,Kansas,117
+10953,Kearny,117
+10954,Kingman,117
+10955,Kiowa,117
+10956,Labette,117
+10957,Lane,117
+10958,Leavenworth,117
+10959,Lincoln,117
+10960,Linn,117
+10961,Logan,117
+10962,Lyon,117
+10963,Marion,117
+10964,Marshall,117
+10965,McPherson,117
+10966,Meade,117
+10967,Miami,117
+10968,Mitchell,117
+10969,Montgomery,117
+10970,Morris,117
+10971,Morton,117
+10972,Nemaha,117
+10973,Neosho,117
+10974,Ness,117
+10975,Norton,117
+10976,Osage,117
+10977,Osborne,117
+10978,Ottawa,117
+10979,Pawnee,117
+10980,Phillips,117
+10981,Pottawatomie,117
+10982,Pratt,117
+10983,Rawlins,117
+10984,Reno,117
+10985,Republic,117
+10986,Rice,117
+10987,Riley,117
+10988,Rooks,117
+10989,Rush,117
+10990,Russell,117
+10991,Saline,117
+10992,Scott,117
+10993,Sedgwick,117
+10994,Seward,117
+10995,Shawnee,117
+10996,Sheridan,117
+10997,Sherman,117
+10998,Smith,117
+10999,Stafford,117
+11000,Stanton,117
+11001,Stevens,117
+11002,Sumner,117
+11003,Thomas,117
+11004,Trego,117
+11005,Wabaunsee,117
+11006,Wallace,117
+11007,Washington,117
+11008,Wichita,117
+11009,Wilson,117
+11010,Woodson,117
+11011,Wyandotte,117
+11012,Adair,118
+11013,Allen,118
+11014,Anderson,118
+11015,Ballard,118
+11016,Barren,118
+11017,Bath,118
+11018,Bell,118
+11019,Boone,118
+11020,Bourbon,118
+11021,Boyd,118
+11022,Boyle,118
+11023,Bracken,118
+11024,Breathitt,118
+11025,Breckinridge,118
+11026,Bullitt,118
+11027,Butler,118
+11028,Caldwell,118
+11029,Calloway,118
+11030,Campbell,118
+11031,Carlisle,118
+11032,Carroll,118
+11033,Carter,118
+11034,Casey,118
+11035,Christian,118
+11036,Clark,118
+11037,Clay,118
+11038,Clinton,118
+11039,Crittenden,118
+11040,Cumberland,118
+11041,Daviess,118
+11042,Edmonson,118
+11043,Elliott,118
+11044,Estill,118
+11045,Fayette,118
+11046,Fleming,118
+11047,Floyd,118
+11048,Franklin,118
+11049,Fulton,118
+11050,Gallatin,118
+11051,Garrard,118
+11052,Grant,118
+11053,Graves,118
+11054,Grayson,118
+11055,Green,118
+11056,Greenup,118
+11057,Hancock,118
+11058,Hardin,118
+11059,Harlan,118
+11060,Harrison,118
+11061,Hart,118
+11062,Henderson,118
+11063,Henry,118
+11064,Hickman,118
+11065,Hopkins,118
+11066,Jackson,118
+11067,Jefferson,118
+11068,Jessamine,118
+11069,Johnson,118
+11070,Kenton,118
+11071,Kentucky,118
+11072,Knott,118
+11073,Knox,118
+11074,Larue,118
+11075,Laurel,118
+11076,Lawrence,118
+11077,Lee,118
+11078,Leslie,118
+11079,Letcher,118
+11080,Lewis,118
+11081,Lincoln,118
+11082,Livingston,118
+11083,Logan,118
+11084,Lyon,118
+11085,Madison,118
+11086,Magoffin,118
+11087,Marion,118
+11088,Marshall,118
+11089,Martin,118
+11090,Mason,118
+11091,McCracken,118
+11092,McCreary,118
+11093,McLean,118
+11094,Meade,118
+11095,Menifee,118
+11096,Mercer,118
+11097,Metcalfe,118
+11098,Monroe,118
+11099,Montgomery,118
+11100,Morgan,118
+11101,Muhlenberg,118
+11102,Nelson,118
+11103,Nicholas,118
+11104,Ohio,118
+11105,Oldham,118
+11106,Owen,118
+11107,Owsley,118
+11108,Pendleton,118
+11109,Perry,118
+11110,Pike,118
+11111,Powell,118
+11112,Pulaski,118
+11113,Robertson,118
+11114,Rockcastle,118
+11115,Rowan,118
+11116,Russell,118
+11117,Scott,118
+11118,Shelby,118
+11119,Simpson,118
+11120,Spencer,118
+11121,Taylor,118
+11122,Todd,118
+11123,Trigg,118
+11124,Trimble,118
+11125,Union,118
+11126,Warren,118
+11127,Washington,118
+11128,Wayne,118
+11129,Webster,118
+11130,Whitley,118
+11131,Wolfe,118
+11132,Woodford,118
+11133,Acadia,119
+11134,Acadia Parish,119
+11135,Allen,119
+11136,Allen Parish,119
+11137,Ascension,119
+11138,Ascension Parish,119
+11139,Assumption,119
+11140,Assumption Parish,119
+11141,Avoyelles,119
+11142,Avoyelles Parish,119
+11143,Beauregard,119
+11144,Beauregard Parish,119
+11145,Bienville,119
+11146,Bienville Parish,119
+11147,Bossier,119
+11148,Bossier Parish,119
+11149,Caddo,119
+11150,Caddo Parish,119
+11151,Calcasieu,119
+11152,Calcasieu Parish,119
+11153,Caldwell,119
+11154,Caldwell Parish,119
+11155,Cameron,119
+11156,Cameron Parish,119
+11157,Catahoula,119
+11158,Catahoula Parish,119
+11159,Claiborne,119
+11160,Claiborne Parish,119
+11161,Concordia,119
+11162,Concordia Parish,119
+11163,De Soto,119
+11164,De Soto Parish,119
+11165,East Baton Rouge,119
+11166,East Baton Rouge Parish,119
+11167,East Carroll,119
+11168,East Carroll Parish,119
+11169,East Feliciana,119
+11170,East Feliciana Parish,119
+11171,Evangeline,119
+11172,Evangeline Parish,119
+11173,Franklin,119
+11174,Franklin Parish,119
+11175,Grant,119
+11176,Grant Parish,119
+11177,Iberia,119
+11178,Iberia Parish,119
+11179,Iberville,119
+11180,Iberville Parish,119
+11181,Jackson,119
+11182,Jackson Parish,119
+11183,Jefferson,119
+11184,Jefferson Davis,119
+11185,Jefferson Davis Parish,119
+11186,Jefferson Parish,119
+11187,Lafayette,119
+11188,Lafayette Parish,119
+11189,Lafourche,119
+11190,Lafourche Parish,119
+11191,LaSalle,119
+11192,LaSalle Parish,119
+11193,Lincoln,119
+11194,Lincoln Parish,119
+11195,Livingston,119
+11196,Livingston Parish,119
+11197,Louisiana,119
+11198,Madison,119
+11199,Madison Parish,119
+11200,Morehouse,119
+11201,Morehouse Parish,119
+11202,Natchitoches,119
+11203,Natchitoches Parish,119
+11204,Orleans,119
+11205,Orleans Parish,119
+11206,Ouachita,119
+11207,Ouachita Parish,119
+11208,Plaquemines,119
+11209,Plaquemines Parish,119
+11210,Pointe Coupee,119
+11211,Pointe Coupee Parish,119
+11212,Rapides,119
+11213,Rapides Parish,119
+11214,Red River,119
+11215,Red River Parish,119
+11216,Richland,119
+11217,Richland Parish,119
+11218,Sabine,119
+11219,Sabine Parish,119
+11220,Saint Bernard Parish,119
+11221,Saint Charles Parish,119
+11222,Saint Helena Parish,119
+11223,Saint James Parish,119
+11224,Saint John the Baptist Parish,119
+11225,Saint Landry Parish,119
+11226,Saint Martin Parish,119
+11227,Saint Mary Parish,119
+11228,Saint Tammany Parish,119
+11229,St. Bernard,119
+11230,St. Bernard Parish,119
+11231,St. Charles,119
+11232,St. Charles Parish,119
+11233,St. Helena,119
+11234,St. Helena Parish,119
+11235,St. James,119
+11236,St. James Parish,119
+11237,St. John the Baptist,119
+11238,St. John the Baptist Parish,119
+11239,St. Landry,119
+11240,St. Landry Parish,119
+11241,St. Martin,119
+11242,St. Martin Parish,119
+11243,St. Mary,119
+11244,St. Mary Parish,119
+11245,St. Tammany,119
+11246,St. Tammany Parish,119
+11247,Tangipahoa,119
+11248,Tangipahoa Parish,119
+11249,Tensas,119
+11250,Tensas Parish,119
+11251,Terrebonne,119
+11252,Terrebonne Parish,119
+11253,Union,119
+11254,Union Parish,119
+11255,Vermilion,119
+11256,Vermilion Parish,119
+11257,Vernon,119
+11258,Vernon Parish,119
+11259,Washington,119
+11260,Washington Parish,119
+11261,Webster,119
+11262,Webster Parish,119
+11263,West Baton Rouge,119
+11264,West Baton Rouge Parish,119
+11265,West Carroll,119
+11266,West Carroll Parish,119
+11267,West Feliciana,119
+11268,West Feliciana Parish,119
+11269,Winn,119
+11270,Winn Parish,119
+11271,Androscoggin,120
+11272,Aroostook,120
+11273,Cumberland,120
+11274,Franklin,120
+11275,Hancock,120
+11276,Kennebec,120
+11277,Knox,120
+11278,Lincoln,120
+11279,Maine,120
+11280,Oxford,120
+11281,Penobscot,120
+11282,Piscataquis,120
+11283,Sagadahoc,120
+11284,Somerset,120
+11285,Waldo,120
+11286,Washington,120
+11287,York,120
+11288,Allegany,121
+11289,Anne Arundel,121
+11290,Baltimore,121
+11291,Baltimore city,121
+11292,Calvert,121
+11293,Caroline,121
+11294,Carroll,121
+11295,Cecil,121
+11296,Charles,121
+11297,Dorchester,121
+11298,Frederick,121
+11299,Garrett,121
+11300,Harford,121
+11301,Howard,121
+11302,Kent,121
+11303,Maryland,121
+11304,Montgomery,121
+11305,Prince George's,121
+11306,Queen Anne's,121
+11307,Saint Mary's ,121
+11308,Somerset,121
+11309,St. Mary's,121
+11310,Talbot,121
+11311,Washington,121
+11312,Wicomico,121
+11313,Worcester,121
+11314,Barnstable,122
+11315,Berkshire,122
+11316,Bristol,122
+11317,Dukes,122
+11318,Essex,122
+11319,Franklin,122
+11320,Hampden,122
+11321,Hampshire,122
+11322,Massachusetts,122
+11323,Middlesex,122
+11324,Nantucket,122
+11325,Norfolk,122
+11326,Plymouth,122
+11327,Suffolk,122
+11328,Worcester,122
+11329,Alcona,123
+11330,Alger,123
+11331,Allegan,123
+11332,Alpena,123
+11333,Antrim,123
+11334,Arenac,123
+11335,Baraga,123
+11336,Barry,123
+11337,Bay,123
+11338,Benzie,123
+11339,Berrien,123
+11340,Branch,123
+11341,Calhoun,123
+11342,Cass,123
+11343,Charlevoix,123
+11344,Cheboygan,123
+11345,Chippewa,123
+11346,Clare,123
+11347,Clinton,123
+11348,Crawford,123
+11349,Delta,123
+11350,Dickinson,123
+11351,Eaton,123
+11352,Emmet,123
+11353,Genesee,123
+11354,Gladwin,123
+11355,Gogebic,123
+11356,Grand Traverse,123
+11357,Gratiot,123
+11358,Hillsdale,123
+11359,Houghton,123
+11360,Huron,123
+11361,Ingham,123
+11362,Ionia,123
+11363,Iosco,123
+11364,Iron,123
+11365,Isabella,123
+11366,Jackson,123
+11367,Kalamazoo,123
+11368,Kalkaska,123
+11369,Kent,123
+11370,Keweenaw,123
+11371,Lake,123
+11372,Lapeer,123
+11373,Leelanau,123
+11374,Lenawee,123
+11375,Livingston,123
+11376,Luce,123
+11377,Mackinac,123
+11378,Macomb,123
+11379,Manistee,123
+11380,Marquette,123
+11381,Mason,123
+11382,Mecosta,123
+11383,Menominee,123
+11384,Michigan,123
+11385,Midland,123
+11386,Missaukee,123
+11387,Monroe,123
+11388,Montcalm,123
+11389,Montmorency,123
+11390,Muskegon,123
+11391,Newaygo,123
+11392,Oakland,123
+11393,Oceana,123
+11394,Ogemaw,123
+11395,Ontonagon,123
+11396,Osceola,123
+11397,Oscoda,123
+11398,Otsego,123
+11399,Ottawa,123
+11400,Presque Isle,123
+11401,Roscommon,123
+11402,Saginaw,123
+11403,Saint Clair ,123
+11404,Saint Joseph ,123
+11405,Sanilac,123
+11406,Schoolcraft,123
+11407,Shiawassee,123
+11408,St. Clair,123
+11409,St. Joseph,123
+11410,Tuscola,123
+11411,Van Buren,123
+11412,Washtenaw,123
+11413,Wayne,123
+11414,Wexford,123
+11415,Aitkin,124
+11416,Anoka,124
+11417,Becker,124
+11418,Beltrami,124
+11419,Benton,124
+11420,Big Stone,124
+11421,Blue Earth,124
+11422,Brown,124
+11423,Carlton,124
+11424,Carver,124
+11425,Cass,124
+11426,Chippewa,124
+11427,Chisago,124
+11428,Clay,124
+11429,Clearwater,124
+11430,Cook,124
+11431,Cottonwood,124
+11432,Crow Wing,124
+11433,Dakota,124
+11434,Dodge,124
+11435,Douglas,124
+11436,Faribault,124
+11437,Fillmore,124
+11438,Freeborn,124
+11439,Goodhue,124
+11440,Grant,124
+11441,Hennepin,124
+11442,Houston,124
+11443,Hubbard,124
+11444,Isanti,124
+11445,Itasca,124
+11446,Jackson,124
+11447,Kanabec,124
+11448,Kandiyohi,124
+11449,Kittson,124
+11450,Koochiching,124
+11451,Lac qui Parle,124
+11452,Lake,124
+11453,Lake of the Woods,124
+11454,Le Sueur,124
+11455,Lincoln,124
+11456,Lyon,124
+11457,Mahnomen,124
+11458,Marshall,124
+11459,Martin,124
+11460,McLeod,124
+11461,Meeker,124
+11462,Mille Lacs,124
+11463,Minnesota,124
+11464,Morrison,124
+11465,Mower,124
+11466,Murray,124
+11467,Nicollet,124
+11468,Nobles,124
+11469,Norman,124
+11470,Olmsted,124
+11471,Otter Tail,124
+11472,Pennington,124
+11473,Pine,124
+11474,Pipestone,124
+11475,Polk,124
+11476,Pope,124
+11477,Ramsey,124
+11478,Red Lake,124
+11479,Redwood,124
+11480,Renville,124
+11481,Rice,124
+11482,Rock,124
+11483,Roseau,124
+11484,Saint Louis ,124
+11485,Scott,124
+11486,Sherburne,124
+11487,Sibley,124
+11488,St. Louis,124
+11489,Stearns,124
+11490,Steele,124
+11491,Stevens,124
+11492,Swift,124
+11493,Todd,124
+11494,Traverse,124
+11495,Wabasha,124
+11496,Wadena,124
+11497,Waseca,124
+11498,Washington,124
+11499,Watonwan,124
+11500,Wilkin,124
+11501,Winona,124
+11502,Wright,124
+11503,Yellow Medicine,124
+11504,Adams,125
+11505,Alcorn,125
+11506,Amite,125
+11507,Attala,125
+11508,Benton,125
+11509,Bolivar,125
+11510,Calhoun,125
+11511,Carroll,125
+11512,Chickasaw,125
+11513,Choctaw,125
+11514,Claiborne,125
+11515,Clarke,125
+11516,Clay,125
+11517,Coahoma,125
+11518,Copiah,125
+11519,Covington,125
+11520,DeSoto,125
+11521,Forrest,125
+11522,Franklin,125
+11523,George,125
+11524,Greene,125
+11525,Grenada,125
+11526,Hancock,125
+11527,Harrison,125
+11528,Hinds,125
+11529,Holmes,125
+11530,Humphreys,125
+11531,Issaquena,125
+11532,Itawamba,125
+11533,Jackson,125
+11534,Jasper,125
+11535,Jefferson,125
+11536,Jefferson Davis,125
+11537,Jones,125
+11538,Kemper,125
+11539,Lafayette,125
+11540,Lamar,125
+11541,Lauderdale,125
+11542,Lawrence,125
+11543,Leake,125
+11544,Lee,125
+11545,Leflore,125
+11546,Lincoln,125
+11547,Lowndes,125
+11548,Madison,125
+11549,Marion,125
+11550,Marshall,125
+11551,Mississippi,125
+11552,Monroe,125
+11553,Montgomery,125
+11554,Neshoba,125
+11555,Newton,125
+11556,Noxubee,125
+11557,Oktibbeha,125
+11558,Panola,125
+11559,Pearl River,125
+11560,Perry,125
+11561,Pike,125
+11562,Pontotoc,125
+11563,Prentiss,125
+11564,Quitman,125
+11565,Rankin,125
+11566,Scott,125
+11567,Sharkey,125
+11568,Simpson,125
+11569,Smith,125
+11570,Stone,125
+11571,Sunflower,125
+11572,Tallahatchie,125
+11573,Tate,125
+11574,Tippah,125
+11575,Tishomingo,125
+11576,Tunica,125
+11577,Union,125
+11578,Walthall,125
+11579,Warren,125
+11580,Washington,125
+11581,Wayne,125
+11582,Webster,125
+11583,Wilkinson,125
+11584,Winston,125
+11585,Yalobusha,125
+11586,Yazoo,125
+11587,Adair,126
+11588,Andrew,126
+11589,Atchison,126
+11590,Audrain,126
+11591,Barry,126
+11592,Barton,126
+11593,Bates,126
+11594,Benton,126
+11595,Bollinger,126
+11596,Boone,126
+11597,Buchanan,126
+11598,Butler,126
+11599,Caldwell,126
+11600,Callaway,126
+11601,Camden,126
+11602,Cape Girardeau,126
+11603,Carroll,126
+11604,Carter,126
+11605,Cass,126
+11606,Cedar,126
+11607,Chariton,126
+11608,Christian,126
+11609,Clark,126
+11610,Clay,126
+11611,Clinton,126
+11612,Cole,126
+11613,Cooper,126
+11614,Crawford,126
+11615,Dade,126
+11616,Dallas,126
+11617,Daviess,126
+11618,DeKalb,126
+11619,Dent,126
+11620,Douglas,126
+11621,Dunklin,126
+11622,Franklin,126
+11623,Gasconade,126
+11624,Gentry,126
+11625,Greene,126
+11626,Grundy,126
+11627,Harrison,126
+11628,Henry,126
+11629,Hickory,126
+11630,Holt,126
+11631,Howard,126
+11632,Howell,126
+11633,Iron,126
+11634,Jackson,126
+11635,Jasper,126
+11636,Jefferson,126
+11637,Johnson,126
+11638,Knox,126
+11639,Laclede,126
+11640,Lafayette,126
+11641,Lawrence,126
+11642,Lewis,126
+11643,Lincoln,126
+11644,Linn,126
+11645,Livingston,126
+11646,Macon,126
+11647,Madison,126
+11648,Maries,126
+11649,Marion,126
+11650,McDonald,126
+11651,Mercer,126
+11652,Miller,126
+11653,Mississippi,126
+11654,Missouri,126
+11655,Moniteau,126
+11656,Monroe,126
+11657,Montgomery,126
+11658,Morgan,126
+11659,New Madrid,126
+11660,Newton,126
+11661,Nodaway,126
+11662,Oregon,126
+11663,Osage,126
+11664,Ozark,126
+11665,Pemiscot,126
+11666,Perry,126
+11667,Pettis,126
+11668,Phelps,126
+11669,Pike,126
+11670,Platte,126
+11671,Polk,126
+11672,Pulaski,126
+11673,Putnam,126
+11674,Ralls,126
+11675,Randolph,126
+11676,Ray,126
+11677,Reynolds,126
+11678,Ripley,126
+11679,Saint Charles ,126
+11680,Saint Clair ,126
+11681,Saint Francois ,126
+11682,Saint Louis ,126
+11683,Saint Louis City,126
+11684,Sainte Genevieve ,126
+11685,Saline,126
+11686,Schuyler,126
+11687,Scotland,126
+11688,Scott,126
+11689,Shannon,126
+11690,Shelby,126
+11691,St. Charles,126
+11692,St. Clair,126
+11693,St. Francois,126
+11694,St. Louis,126
+11695,St. Louis city,126
+11696,Ste. Genevieve,126
+11697,Stoddard,126
+11698,Stone,126
+11699,Sullivan,126
+11700,Taney,126
+11701,Texas,126
+11702,Vernon,126
+11703,Warren,126
+11704,Washington,126
+11705,Wayne,126
+11706,Webster,126
+11707,Worth,126
+11708,Wright,126
+11709,Beaverhead,127
+11710,Big Horn,127
+11711,Blaine,127
+11712,Broadwater,127
+11713,Carbon,127
+11714,Carter,127
+11715,Cascade,127
+11716,Chouteau,127
+11717,Custer,127
+11718,Daniels,127
+11719,Dawson,127
+11720,Deer Lodge,127
+11721,Fallon,127
+11722,Fergus,127
+11723,Flathead,127
+11724,Gallatin,127
+11725,Garfield,127
+11726,Glacier,127
+11727,Golden Valley,127
+11728,Granite,127
+11729,Hill,127
+11730,Jefferson,127
+11731,Judith Basin,127
+11732,Lake,127
+11733,Lewis and Clark,127
+11734,Liberty,127
+11735,Lincoln,127
+11736,Madison,127
+11737,McCone,127
+11738,Meagher,127
+11739,Mineral,127
+11740,Missoula,127
+11741,Montana,127
+11742,Musselshell,127
+11743,Park,127
+11744,Petroleum,127
+11745,Phillips,127
+11746,Pondera,127
+11747,Powder River,127
+11748,Powell,127
+11749,Prairie,127
+11750,Ravalli,127
+11751,Richland,127
+11752,Roosevelt,127
+11753,Rosebud,127
+11754,Sanders,127
+11755,Sheridan,127
+11756,Silver Bow,127
+11757,Stillwater,127
+11758,Sweet Grass,127
+11759,Teton,127
+11760,Toole,127
+11761,Treasure,127
+11762,Valley,127
+11763,Wheatland,127
+11764,Wibaux,127
+11765,Yellowstone,127
+11766,Adams,128
+11767,Antelope,128
+11768,Arthur,128
+11769,Banner,128
+11770,Blaine,128
+11771,Boone,128
+11772,Box Butte,128
+11773,Boyd,128
+11774,Brown,128
+11775,Buffalo,128
+11776,Burt,128
+11777,Butler,128
+11778,Cass,128
+11779,Cedar,128
+11780,Chase,128
+11781,Cherry,128
+11782,Cheyenne,128
+11783,Clay,128
+11784,Colfax,128
+11785,Cuming,128
+11786,Custer,128
+11787,Dakota,128
+11788,Dawes,128
+11789,Dawson,128
+11790,Deuel,128
+11791,Dixon,128
+11792,Dodge,128
+11793,Douglas,128
+11794,Dundy,128
+11795,Fillmore,128
+11796,Franklin,128
+11797,Frontier,128
+11798,Furnas,128
+11799,Gage,128
+11800,Garden,128
+11801,Garfield,128
+11802,Gosper,128
+11803,Grant,128
+11804,Greeley,128
+11805,Hall,128
+11806,Hamilton,128
+11807,Harlan,128
+11808,Hayes,128
+11809,Hitchcock,128
+11810,Holt,128
+11811,Hooker,128
+11812,Howard,128
+11813,Jefferson,128
+11814,Johnson,128
+11815,Kearney,128
+11816,Keith,128
+11817,Keya Paha,128
+11818,Kimball,128
+11819,Knox,128
+11820,Lancaster,128
+11821,Lincoln,128
+11822,Logan,128
+11823,Loup,128
+11824,Madison,128
+11825,McPherson,128
+11826,Merrick,128
+11827,Morrill,128
+11828,Nance,128
+11829,Nebraska,128
+11830,Nemaha,128
+11831,Nuckolls,128
+11832,Otoe,128
+11833,Pawnee,128
+11834,Perkins,128
+11835,Phelps,128
+11836,Pierce,128
+11837,Platte,128
+11838,Polk,128
+11839,Red Willow,128
+11840,Richardson,128
+11841,Rock,128
+11842,Saline,128
+11843,Sarpy,128
+11844,Saunders,128
+11845,Scotts Bluff,128
+11846,Seward,128
+11847,Sheridan,128
+11848,Sherman,128
+11849,Sioux,128
+11850,Stanton,128
+11851,Thayer,128
+11852,Thomas,128
+11853,Thurston,128
+11854,Valley,128
+11855,Washington,128
+11856,Wayne,128
+11857,Webster,128
+11858,Wheeler,128
+11859,York,128
+11860,Carson City,129
+11861,Churchill,129
+11862,Clark,129
+11863,Douglas,129
+11864,Elko,129
+11865,Esmeralda,129
+11866,Eureka,129
+11867,Humboldt,129
+11868,Lander,129
+11869,Lincoln,129
+11870,Lyon,129
+11871,Mineral,129
+11872,Nevada,129
+11873,Nye,129
+11874,Pershing,129
+11875,Storey,129
+11876,Washoe,129
+11877,White Pine,129
+11878,Belknap,130
+11879,Carroll,130
+11880,Cheshire,130
+11881,Coos,130
+11882,Grafton,130
+11883,Hillsborough,130
+11884,Merrimack,130
+11885,New Hampshire,130
+11886,Rockingham,130
+11887,Strafford,130
+11888,Sullivan,130
+11889,Atlantic,131
+11890,Bergen,131
+11891,Burlington,131
+11892,Camden,131
+11893,Cape May,131
+11894,Cumberland,131
+11895,Essex,131
+11896,Gloucester,131
+11897,Hudson,131
+11898,Hunterdon,131
+11899,Mercer,131
+11900,Middlesex,131
+11901,Monmouth,131
+11902,Morris,131
+11903,New Jersey,131
+11904,Ocean,131
+11905,Passaic,131
+11906,Salem,131
+11907,Somerset,131
+11908,Sussex,131
+11909,Union,131
+11910,Warren,131
+11911,Bernalillo,132
+11912,Catron,132
+11913,Chaves,132
+11914,Cibola,132
+11915,Colfax,132
+11916,Curry,132
+11917,De Baca,132
+11918,Doña Ana,132
+11919,Dona Ana ,132
+11920,Eddy,132
+11921,Grant,132
+11922,Guadalupe,132
+11923,Harding,132
+11924,Hidalgo,132
+11925,Lea,132
+11926,Lincoln,132
+11927,Los Alamos,132
+11928,Luna,132
+11929,McKinley,132
+11930,Mora,132
+11931,New Mexico,132
+11932,Otero,132
+11933,Quay,132
+11934,Rio Arriba,132
+11935,Roosevelt,132
+11936,San Juan,132
+11937,San Miguel,132
+11938,Sandoval,132
+11939,Santa Fe,132
+11940,Sierra,132
+11941,Socorro,132
+11942,Taos,132
+11943,Torrance,132
+11944,Union,132
+11945,Valencia,132
+11946,Albany,133
+11947,Allegany,133
+11948,Bronx,133
+11949,Broome,133
+11950,Cattaraugus,133
+11951,Cayuga,133
+11952,Chautauqua,133
+11953,Chemung,133
+11954,Chenango,133
+11955,Clinton,133
+11956,Columbia,133
+11957,Cortland,133
+11958,Delaware,133
+11959,Dutchess,133
+11960,Erie,133
+11961,Essex,133
+11962,Franklin,133
+11963,Fulton,133
+11964,Genesee,133
+11965,Greene,133
+11966,Hamilton,133
+11967,Herkimer,133
+11968,Jefferson,133
+11969,Kings,133
+11970,Lewis,133
+11971,Livingston,133
+11972,Madison,133
+11973,Monroe,133
+11974,Montgomery,133
+11975,Nassau,133
+11976,New York,133
+11977,Niagara,133
+11978,Oneida,133
+11979,Onondaga,133
+11980,Ontario,133
+11981,Orange,133
+11982,Orleans,133
+11983,Oswego,133
+11984,Otsego,133
+11985,Putnam,133
+11986,Queens,133
+11987,Rensselaer,133
+11988,Richmond,133
+11989,Rockland,133
+11990,Saint Lawrence ,133
+11991,Saratoga,133
+11992,Schenectady,133
+11993,Schoharie,133
+11994,Schuyler,133
+11995,Seneca,133
+11996,St. Lawrence,133
+11997,Steuben,133
+11998,Suffolk,133
+11999,Sullivan,133
+12000,Tioga,133
+12001,Tompkins,133
+12002,Ulster,133
+12003,Warren,133
+12004,Washington,133
+12005,Wayne,133
+12006,Westchester,133
+12007,Wyoming,133
+12008,Yates,133
+12009,Alamance,134
+12010,Alexander,134
+12011,Alleghany,134
+12012,Anson,134
+12013,Ashe,134
+12014,Avery,134
+12015,Beaufort,134
+12016,Bertie,134
+12017,Bladen,134
+12018,Brunswick,134
+12019,Buncombe,134
+12020,Burke,134
+12021,Cabarrus,134
+12022,Caldwell,134
+12023,Camden,134
+12024,Carteret,134
+12025,Caswell,134
+12026,Catawba,134
+12027,Chatham,134
+12028,Cherokee,134
+12029,Chowan,134
+12030,Clay,134
+12031,Cleveland,134
+12032,Columbus,134
+12033,Craven,134
+12034,Cumberland,134
+12035,Currituck,134
+12036,Dare,134
+12037,Davidson,134
+12038,Davie,134
+12039,Duplin,134
+12040,Durham,134
+12041,Edgecombe,134
+12042,Forsyth,134
+12043,Franklin,134
+12044,Gaston,134
+12045,Gates,134
+12046,Graham,134
+12047,Granville,134
+12048,Greene,134
+12049,Guilford,134
+12050,Halifax,134
+12051,Harnett,134
+12052,Haywood,134
+12053,Henderson,134
+12054,Hertford,134
+12055,Hoke,134
+12056,Hyde,134
+12057,Iredell,134
+12058,Jackson,134
+12059,Johnston,134
+12060,Jones,134
+12061,Lee,134
+12062,Lenoir,134
+12063,Lincoln,134
+12064,Macon,134
+12065,Madison,134
+12066,Martin,134
+12067,McDowell,134
+12068,Mecklenburg,134
+12069,Mitchell,134
+12070,Montgomery,134
+12071,Moore,134
+12072,Nash,134
+12073,New Hanover,134
+12074,North Carolina,134
+12075,Northampton,134
+12076,Onslow,134
+12077,Orange,134
+12078,Pamlico,134
+12079,Pasquotank,134
+12080,Pender,134
+12081,Perquimans,134
+12082,Person,134
+12083,Pitt,134
+12084,Polk,134
+12085,Randolph,134
+12086,Richmond,134
+12087,Robeson,134
+12088,Rockingham,134
+12089,Rowan,134
+12090,Rutherford,134
+12091,Sampson,134
+12092,Scotland,134
+12093,Stanly,134
+12094,Stokes,134
+12095,Surry,134
+12096,Swain,134
+12097,Transylvania,134
+12098,Tyrrell,134
+12099,Union,134
+12100,Vance,134
+12101,Wake,134
+12102,Warren,134
+12103,Washington,134
+12104,Watauga,134
+12105,Wayne,134
+12106,Wilkes,134
+12107,Wilson,134
+12108,Yadkin,134
+12109,Yancey,134
+12110,Adams,135
+12111,Barnes,135
+12112,Benson,135
+12113,Billings,135
+12114,Bottineau,135
+12115,Bowman,135
+12116,Burke,135
+12117,Burleigh,135
+12118,Cass,135
+12119,Cavalier,135
+12120,Dickey,135
+12121,Divide,135
+12122,Dunn,135
+12123,Eddy,135
+12124,Emmons,135
+12125,Foster,135
+12126,Golden Valley,135
+12127,Grand Forks,135
+12128,Grant,135
+12129,Griggs,135
+12130,Hettinger,135
+12131,Kidder,135
+12132,LaMoure,135
+12133,Logan,135
+12134,McHenry,135
+12135,McIntosh,135
+12136,McKenzie,135
+12137,McLean,135
+12138,Mercer,135
+12139,Morton,135
+12140,Mountrail,135
+12141,Nelson,135
+12142,North Dakota,135
+12143,Oliver,135
+12144,Pembina,135
+12145,Pierce,135
+12146,Ramsey,135
+12147,Ransom,135
+12148,Renville,135
+12149,Richland,135
+12150,Rolette,135
+12151,Sargent,135
+12152,Sheridan,135
+12153,Sioux,135
+12154,Slope,135
+12155,Stark,135
+12156,Steele,135
+12157,Stutsman,135
+12158,Towner,135
+12159,Traill,135
+12160,Walsh,135
+12161,Ward,135
+12162,Wells,135
+12163,Williams,135
+12164,Adams,136
+12165,Allen,136
+12166,Ashland,136
+12167,Ashtabula,136
+12168,Athens,136
+12169,Auglaize,136
+12170,Belmont,136
+12171,Brown,136
+12172,Butler,136
+12173,Carroll,136
+12174,Champaign,136
+12175,Clark,136
+12176,Clermont,136
+12177,Clinton,136
+12178,Columbiana,136
+12179,Coshocton,136
+12180,Crawford,136
+12181,Cuyahoga,136
+12182,Darke,136
+12183,Defiance,136
+12184,Delaware,136
+12185,Erie,136
+12186,Fairfield,136
+12187,Fayette,136
+12188,Franklin,136
+12189,Fulton,136
+12190,Gallia,136
+12191,Geauga,136
+12192,Greene,136
+12193,Guernsey,136
+12194,Hamilton,136
+12195,Hancock,136
+12196,Hardin,136
+12197,Harrison,136
+12198,Henry,136
+12199,Highland,136
+12200,Hocking,136
+12201,Holmes,136
+12202,Huron,136
+12203,Jackson,136
+12204,Jefferson,136
+12205,Knox,136
+12206,Lake,136
+12207,Lawrence,136
+12208,Licking,136
+12209,Logan,136
+12210,Lorain,136
+12211,Lucas,136
+12212,Madison,136
+12213,Mahoning,136
+12214,Marion,136
+12215,Medina,136
+12216,Meigs,136
+12217,Mercer,136
+12218,Miami,136
+12219,Monroe,136
+12220,Montgomery,136
+12221,Morgan,136
+12222,Morrow,136
+12223,Muskingum,136
+12224,Noble,136
+12225,Ohio,136
+12226,Ottawa,136
+12227,Paulding,136
+12228,Perry,136
+12229,Pickaway,136
+12230,Pike,136
+12231,Portage,136
+12232,Preble,136
+12233,Putnam,136
+12234,Richland,136
+12235,Ross,136
+12236,Sandusky,136
+12237,Scioto,136
+12238,Seneca,136
+12239,Shelby,136
+12240,Stark,136
+12241,Summit,136
+12242,Trumbull,136
+12243,Tuscarawas,136
+12244,Union,136
+12245,Van Wert,136
+12246,Vinton,136
+12247,Warren,136
+12248,Washington,136
+12249,Wayne,136
+12250,Williams,136
+12251,Wood,136
+12252,Wyandot,136
+12253,Adair,137
+12254,Alfalfa,137
+12255,Atoka,137
+12256,Beaver,137
+12257,Beckham,137
+12258,Blaine,137
+12259,Bryan,137
+12260,Caddo,137
+12261,Canadian,137
+12262,Carter,137
+12263,Cherokee,137
+12264,Choctaw,137
+12265,Cimarron,137
+12266,Cleveland,137
+12267,Coal,137
+12268,Comanche,137
+12269,Cotton,137
+12270,Craig,137
+12271,Creek,137
+12272,Custer,137
+12273,Delaware,137
+12274,Dewey,137
+12275,Ellis,137
+12276,Garfield,137
+12277,Garvin,137
+12278,Grady,137
+12279,Grant,137
+12280,Greer,137
+12281,Harmon,137
+12282,Harper,137
+12283,Haskell,137
+12284,Hughes,137
+12285,Jackson,137
+12286,Jefferson,137
+12287,Johnston,137
+12288,Kay,137
+12289,Kingfisher,137
+12290,Kiowa,137
+12291,Latimer,137
+12292,Le Flore,137
+12293,Lincoln,137
+12294,Logan,137
+12295,Love,137
+12296,Major,137
+12297,Marshall,137
+12298,Mayes,137
+12299,McClain,137
+12300,McCurtain,137
+12301,McIntosh,137
+12302,Murray,137
+12303,Muskogee,137
+12304,Noble,137
+12305,Nowata,137
+12306,Okfuskee,137
+12307,Oklahoma,137
+12308,Okmulgee,137
+12309,Osage,137
+12310,Ottawa,137
+12311,Pawnee,137
+12312,Payne,137
+12313,Pittsburg,137
+12314,Pontotoc,137
+12315,Pottawatomie,137
+12316,Pushmataha,137
+12317,Roger Mills,137
+12318,Rogers,137
+12319,Seminole,137
+12320,Sequoyah,137
+12321,Stephens,137
+12322,Texas,137
+12323,Tillman,137
+12324,Tulsa,137
+12325,Wagoner,137
+12326,Washington,137
+12327,Washita,137
+12328,Woods,137
+12329,Woodward,137
+12330,Baker,138
+12331,Benton,138
+12332,Clackamas,138
+12333,Clatsop,138
+12334,Columbia,138
+12335,Coos,138
+12336,Crook,138
+12337,Curry,138
+12338,Deschutes,138
+12339,Douglas,138
+12340,Gilliam,138
+12341,Grant,138
+12342,Harney,138
+12343,Hood River,138
+12344,Jackson,138
+12345,Jefferson,138
+12346,Josephine,138
+12347,Klamath,138
+12348,Lake,138
+12349,Lane,138
+12350,Lincoln,138
+12351,Linn,138
+12352,Malheur,138
+12353,Marion,138
+12354,Morrow,138
+12355,Multnomah,138
+12356,Oregon,138
+12357,Polk,138
+12358,Sherman,138
+12359,Tillamook,138
+12360,Umatilla,138
+12361,Union,138
+12362,Wallowa,138
+12363,Wasco,138
+12364,Washington,138
+12365,Wheeler,138
+12366,Yamhill,138
+12367,Adams,139
+12368,Allegheny,139
+12369,Armstrong,139
+12370,Beaver,139
+12371,Bedford,139
+12372,Berks,139
+12373,Blair,139
+12374,Bradford,139
+12375,Bucks,139
+12376,Butler,139
+12377,Cambria,139
+12378,Cameron,139
+12379,Carbon,139
+12380,Centre,139
+12381,Chester,139
+12382,Clarion,139
+12383,Clearfield,139
+12384,Clinton,139
+12385,Columbia,139
+12386,Crawford,139
+12387,Cumberland,139
+12388,Dauphin,139
+12389,Delaware,139
+12390,Elk,139
+12391,Erie,139
+12392,Fayette,139
+12393,Forest,139
+12394,Franklin,139
+12395,Fulton,139
+12396,Greene,139
+12397,Huntingdon,139
+12398,Indiana,139
+12399,Jefferson,139
+12400,Juniata,139
+12401,Lackawanna,139
+12402,Lancaster,139
+12403,Lawrence,139
+12404,Lebanon,139
+12405,Lehigh,139
+12406,Luzerne,139
+12407,Lycoming,139
+12408,McKean,139
+12409,Mercer,139
+12410,Mifflin,139
+12411,Monroe,139
+12412,Montgomery,139
+12413,Montour,139
+12414,Northampton,139
+12415,Northumberland,139
+12416,Pennsylvania,139
+12417,Perry,139
+12418,Philadelphia,139
+12419,Pike,139
+12420,Potter,139
+12421,Schuylkill,139
+12422,Snyder,139
+12423,Somerset,139
+12424,Sullivan,139
+12425,Susquehanna,139
+12426,Tioga,139
+12427,Union,139
+12428,Venango,139
+12429,Warren,139
+12430,Washington,139
+12431,Wayne,139
+12432,Westmoreland,139
+12433,Wyoming,139
+12434,York,139
+12591,Bristol,141
+12592,Kent,141
+12593,Newport,141
+12594,Providence,141
+12595,Rhode Island,141
+12596,Washington,141
+12597,Abbeville,142
+12598,Aiken,142
+12599,Allendale,142
+12600,Anderson,142
+12601,Bamberg,142
+12602,Barnwell,142
+12603,Beaufort,142
+12604,Berkeley,142
+12605,Calhoun,142
+12606,Charleston,142
+12607,Cherokee,142
+12608,Chester,142
+12609,Chesterfield,142
+12610,Clarendon,142
+12611,Colleton,142
+12612,Darlington,142
+12613,Dillon,142
+12614,Dorchester,142
+12615,Edgefield,142
+12616,Fairfield,142
+12617,Florence,142
+12618,Georgetown,142
+12619,Greenville,142
+12620,Greenwood,142
+12621,Hampton,142
+12622,Horry,142
+12623,Jasper,142
+12624,Kershaw,142
+12625,Lancaster,142
+12626,Laurens,142
+12627,Lee,142
+12628,Lexington,142
+12629,Marion,142
+12630,Marlboro,142
+12631,McCormick,142
+12632,Newberry,142
+12633,Oconee,142
+12634,Orangeburg,142
+12635,Pickens,142
+12636,Richland,142
+12637,Saluda,142
+12638,South Carolina,142
+12639,Spartanburg,142
+12640,Sumter,142
+12641,Union,142
+12642,Williamsburg,142
+12643,York,142
+12644,Aurora,143
+12645,Beadle,143
+12646,Bennett,143
+12647,Bon Homme,143
+12648,Brookings,143
+12649,Brown,143
+12650,Brule,143
+12651,Buffalo,143
+12652,Butte,143
+12653,Campbell,143
+12654,Charles Mix,143
+12655,Clark,143
+12656,Clay,143
+12657,Codington,143
+12658,Corson,143
+12659,Custer,143
+12660,Davison,143
+12661,Day,143
+12662,Deuel,143
+12663,Dewey,143
+12664,Douglas,143
+12665,Edmunds,143
+12666,Fall River,143
+12667,Faulk,143
+12668,Grant,143
+12669,Gregory,143
+12670,Haakon,143
+12671,Hamlin,143
+12672,Hand,143
+12673,Hanson,143
+12674,Harding,143
+12675,Hughes,143
+12676,Hutchinson,143
+12677,Hyde,143
+12678,Jackson,143
+12679,Jerauld,143
+12680,Jones,143
+12681,Kingsbury,143
+12682,Lake,143
+12683,Lawrence,143
+12684,Lincoln,143
+12685,Lyman,143
+12686,Marshall,143
+12687,McCook,143
+12688,McPherson,143
+12689,Meade,143
+12690,Mellette,143
+12691,Miner,143
+12692,Minnehaha,143
+12693,Moody,143
+12694,Oglala Lakota,143
+12695,Pennington,143
+12696,Perkins,143
+12697,Potter,143
+12698,Roberts,143
+12699,Sanborn,143
+12700,South Dakota,143
+12701,Spink,143
+12702,Stanley,143
+12703,Sully,143
+12704,Todd,143
+12705,Tripp,143
+12706,Turner,143
+12707,Union,143
+12708,Walworth,143
+12709,Yankton,143
+12710,Ziebach,143
+12711,Anderson,144
+12712,Bedford,144
+12713,Benton,144
+12714,Bledsoe,144
+12715,Blount,144
+12716,Bradley,144
+12717,Campbell,144
+12718,Cannon,144
+12719,Carroll,144
+12720,Carter,144
+12721,Cheatham,144
+12722,Chester,144
+12723,Claiborne,144
+12724,Clay,144
+12725,Cocke,144
+12726,Coffee,144
+12727,Crockett,144
+12728,Cumberland,144
+12729,Davidson,144
+12730,Decatur,144
+12731,DeKalb,144
+12732,Dickson,144
+12733,Dyer,144
+12734,Fayette,144
+12735,Fentress,144
+12736,Franklin,144
+12737,Gibson,144
+12738,Giles,144
+12739,Grainger,144
+12740,Greene,144
+12741,Grundy,144
+12742,Hamblen,144
+12743,Hamilton,144
+12744,Hancock,144
+12745,Hardeman,144
+12746,Hardin,144
+12747,Hawkins,144
+12748,Haywood,144
+12749,Henderson,144
+12750,Henry,144
+12751,Hickman,144
+12752,Houston,144
+12753,Humphreys,144
+12754,Jackson,144
+12755,Jefferson,144
+12756,Johnson,144
+12757,Knox,144
+12758,Lake,144
+12759,Lauderdale,144
+12760,Lawrence,144
+12761,Lewis,144
+12762,Lincoln,144
+12763,Loudon,144
+12764,Macon,144
+12765,Madison,144
+12766,Marion,144
+12767,Marshall,144
+12768,Maury,144
+12769,McMinn,144
+12770,McNairy,144
+12771,Meigs,144
+12772,Monroe,144
+12773,Montgomery,144
+12774,Moore,144
+12775,Morgan,144
+12776,Obion,144
+12777,Overton,144
+12778,Perry,144
+12779,Pickett,144
+12780,Polk,144
+12781,Putnam,144
+12782,Rhea,144
+12783,Roane,144
+12784,Robertson,144
+12785,Rutherford,144
+12786,Scott,144
+12787,Sequatchie,144
+12788,Sevier,144
+12789,Shelby,144
+12790,Smith,144
+12791,Stewart,144
+12792,Sullivan,144
+12793,Sumner,144
+12794,Tennessee,144
+12795,Tipton,144
+12796,Trousdale,144
+12797,Unicoi,144
+12798,Union,144
+12799,Van Buren,144
+12800,Warren,144
+12801,Washington,144
+12802,Wayne,144
+12803,Weakley,144
+12804,White,144
+12805,Williamson,144
+12806,Wilson,144
+12807,Anderson,145
+12808,Andrews,145
+12809,Angelina,145
+12810,Aransas,145
+12811,Archer,145
+12812,Armstrong,145
+12813,Atascosa,145
+12814,Austin,145
+12815,Bailey,145
+12816,Bandera,145
+12817,Bastrop,145
+12818,Baylor,145
+12819,Bee,145
+12820,Bell,145
+12821,Bexar,145
+12822,Blanco,145
+12823,Borden,145
+12824,Bosque,145
+12825,Bowie,145
+12826,Brazoria,145
+12827,Brazos,145
+12828,Brewster,145
+12829,Briscoe,145
+12830,Brooks,145
+12831,Brown,145
+12832,Burleson,145
+12833,Burnet,145
+12834,Caldwell,145
+12835,Calhoun,145
+12836,Callahan,145
+12837,Cameron,145
+12838,Camp,145
+12839,Carson,145
+12840,Cass,145
+12841,Castro,145
+12842,Chambers,145
+12843,Cherokee,145
+12844,Childress,145
+12845,Clay,145
+12846,Cochran,145
+12847,Coke,145
+12848,Coleman,145
+12849,Collin,145
+12850,Collingsworth,145
+12851,Colorado,145
+12852,Comal,145
+12853,Comanche,145
+12854,Concho,145
+12855,Cooke,145
+12856,Coryell,145
+12857,Cottle,145
+12858,Crane,145
+12859,Crockett,145
+12860,Crosby,145
+12861,Culberson,145
+12862,Dallam,145
+12863,Dallas,145
+12864,Dawson,145
+12865,Deaf Smith,145
+12866,Delta,145
+12867,Denton,145
+12868,DeWitt,145
+12869,Dickens,145
+12870,Dimmit,145
+12871,Donley,145
+12872,Duval,145
+12873,Eastland,145
+12874,Ector,145
+12875,Edwards,145
+12876,El Paso,145
+12877,Ellis,145
+12878,Erath,145
+12879,Falls,145
+12880,Fannin,145
+12881,Fayette,145
+12882,Fisher,145
+12883,Floyd,145
+12884,Foard,145
+12885,Fort Bend,145
+12886,Franklin,145
+12887,Freestone,145
+12888,Frio,145
+12889,Gaines,145
+12890,Galveston,145
+12891,Garza,145
+12892,Gillespie,145
+12893,Glasscock,145
+12894,Goliad,145
+12895,Gonzales,145
+12896,Gray,145
+12897,Grayson,145
+12898,Gregg,145
+12899,Grimes,145
+12900,Guadalupe,145
+12901,Hale,145
+12902,Hall,145
+12903,Hamilton,145
+12904,Hansford,145
+12905,Hardeman,145
+12906,Hardin,145
+12907,Harris,145
+12908,Harrison,145
+12909,Hartley,145
+12910,Haskell,145
+12911,Hays,145
+12912,Hemphill,145
+12913,Henderson,145
+12914,Hidalgo,145
+12915,Hill,145
+12916,Hockley,145
+12917,Hood,145
+12918,Hopkins,145
+12919,Houston,145
+12920,Howard,145
+12921,Hudspeth,145
+12922,Hunt,145
+12923,Hutchinson,145
+12924,Irion,145
+12925,Jack,145
+12926,Jackson,145
+12927,Jasper,145
+12928,Jeff Davis,145
+12929,Jefferson,145
+12930,Jim Hogg,145
+12931,Jim Wells,145
+12932,Johnson,145
+12933,Jones,145
+12934,Karnes,145
+12935,Kaufman,145
+12936,Kendall,145
+12937,Kenedy,145
+12938,Kent,145
+12939,Kerr,145
+12940,Kimble,145
+12941,King,145
+12942,Kinney,145
+12943,Kleberg,145
+12944,Knox,145
+12945,La Salle,145
+12946,Lamar,145
+12947,Lamb,145
+12948,Lampasas,145
+12949,Lavaca,145
+12950,Lee,145
+12951,Leon,145
+12952,Liberty,145
+12953,Limestone,145
+12954,Lipscomb,145
+12955,Live Oak,145
+12956,Llano,145
+12957,Loving,145
+12958,Lubbock,145
+12959,Lynn,145
+12960,Madison,145
+12961,Marion,145
+12962,Martin,145
+12963,Mason,145
+12964,Matagorda,145
+12965,Maverick,145
+12966,McCulloch,145
+12967,McLennan,145
+12968,McMullen,145
+12969,Medina,145
+12970,Menard,145
+12971,Midland,145
+12972,Milam,145
+12973,Mills,145
+12974,Mitchell,145
+12975,Montague,145
+12976,Montgomery,145
+12977,Moore,145
+12978,Morris,145
+12979,Motley,145
+12980,Nacogdoches,145
+12981,Navarro,145
+12982,Newton,145
+12983,Nolan,145
+12984,Nueces,145
+12985,Ochiltree,145
+12986,Oldham,145
+12987,Orange,145
+12988,Palo Pinto,145
+12989,Panola,145
+12990,Parker,145
+12991,Parmer,145
+12992,Pecos,145
+12993,Polk,145
+12994,Potter,145
+12995,Presidio,145
+12996,Rains,145
+12997,Randall,145
+12998,Reagan,145
+12999,Real,145
+13000,Red River,145
+13001,Reeves,145
+13002,Refugio,145
+13003,Roberts,145
+13004,Robertson,145
+13005,Rockwall,145
+13006,Runnels,145
+13007,Rusk,145
+13008,Sabine,145
+13009,San Augustine,145
+13010,San Jacinto,145
+13011,San Patricio,145
+13012,San Saba,145
+13013,Schleicher,145
+13014,Scurry,145
+13015,Shackelford,145
+13016,Shelby,145
+13017,Sherman,145
+13018,Smith,145
+13019,Somervell,145
+13020,Starr,145
+13021,Stephens,145
+13022,Sterling,145
+13023,Stonewall,145
+13024,Sutton,145
+13025,Swisher,145
+13026,Tarrant,145
+13027,Taylor,145
+13028,Terrell,145
+13029,Terry,145
+13030,Texas,145
+13031,Throckmorton,145
+13032,Titus,145
+13033,Tom Green,145
+13034,Travis,145
+13035,Trinity,145
+13036,Tyler,145
+13037,Upshur,145
+13038,Upton,145
+13039,Uvalde,145
+13040,Val Verde,145
+13041,Van Zandt,145
+13042,Victoria,145
+13043,Walker,145
+13044,Waller,145
+13045,Ward,145
+13046,Washington,145
+13047,Webb,145
+13048,Wharton,145
+13049,Wheeler,145
+13050,Wichita,145
+13051,Wilbarger,145
+13052,Willacy,145
+13053,Williamson,145
+13054,Wilson,145
+13055,Winkler,145
+13056,Wise,145
+13057,Wood,145
+13058,Yoakum,145
+13059,Young,145
+13060,Zapata,145
+13061,Zavala,145
+13063,Beaver,146
+13064,Box Elder,146
+13065,Cache,146
+13066,Carbon,146
+13067,Daggett,146
+13068,Davis,146
+13069,Duchesne,146
+13070,Emery,146
+13071,Garfield,146
+13072,Grand,146
+13073,Iron,146
+13074,Juab,146
+13075,Kane,146
+13076,Millard,146
+13077,Morgan,146
+13078,Piute,146
+13079,Rich,146
+13080,Salt Lake,146
+13081,San Juan,146
+13082,Sanpete,146
+13083,Sevier,146
+13084,Summit,146
+13085,Tooele,146
+13086,Uintah,146
+13087,Utah,146
+13088,Wasatch,146
+13089,Washington,146
+13090,Wayne,146
+13091,Weber,146
+13092,Addison,147
+13093,Bennington,147
+13094,Caledonia,147
+13095,Chittenden,147
+13096,Essex,147
+13097,Franklin,147
+13098,Grand Isle,147
+13099,Lamoille,147
+13100,Orange,147
+13101,Orleans,147
+13102,Rutland,147
+13103,Vermont,147
+13104,Washington,147
+13105,Windham,147
+13106,Windsor,147
+13107,Accomack,148
+13108,Albemarle,148
+13109,Alexandria city,148
+13110,Alleghany,148
+13111,Amelia,148
+13112,Amherst,148
+13113,Appomattox,148
+13114,Arlington,148
+13115,Augusta,148
+13116,Bath,148
+13117,Bedford,148
+13118,Bland,148
+13119,Botetourt,148
+13120,Bristol city,148
+13121,Brunswick,148
+13122,Buchanan,148
+13123,Buckingham,148
+13124,Buena Vista city,148
+13125,Campbell,148
+13126,Caroline,148
+13127,Carroll,148
+13128,Charles City,148
+13129,Charlotte,148
+13130,Charlottesville city,148
+13131,Chesapeake city,148
+13132,Chesterfield,148
+13133,Clarke,148
+13134,Colonial Heights city,148
+13135,Covington city,148
+13136,Craig,148
+13137,Culpeper,148
+13138,Cumberland,148
+13139,Danville city,148
+13140,Dickenson,148
+13141,Dinwiddie,148
+13142,Emporia city,148
+13143,Essex,148
+13144,Fairfax,148
+13145,Fairfax city,148
+13146,Falls Church city,148
+13147,Fauquier,148
+13148,Floyd,148
+13149,Fluvanna,148
+13150,Franklin,148
+13151,Franklin city,148
+13152,Frederick,148
+13153,Fredericksburg city,148
+13154,Galax city,148
+13155,Giles,148
+13156,Gloucester,148
+13157,Goochland,148
+13158,Grayson,148
+13159,Greene,148
+13160,Greensville,148
+13161,Halifax,148
+13162,Hampton city,148
+13163,Hanover,148
+13164,Harrisonburg city,148
+13165,Henrico,148
+13166,Henry,148
+13167,Highland,148
+13168,Hopewell city,148
+13169,Isle of Wight,148
+13170,James City,148
+13171,King and Queen,148
+13172,King George,148
+13173,King William,148
+13174,Lancaster,148
+13175,Lee,148
+13176,Lexington city,148
+13177,Loudoun,148
+13178,Louisa,148
+13179,Lunenburg,148
+13180,Lynchburg city,148
+13181,Madison,148
+13182,Manassas city,148
+13183,Manassas Park city,148
+13184,Martinsville city,148
+13185,Mathews,148
+13186,Mecklenburg,148
+13187,Middlesex,148
+13188,Montgomery,148
+13189,Nelson,148
+13190,New Kent,148
+13191,Newport News city,148
+13192,Norfolk city,148
+13193,Northampton,148
+13194,Northumberland,148
+13195,Norton city,148
+13196,Nottoway,148
+13197,Orange,148
+13198,Page,148
+13199,Patrick,148
+13200,Petersburg city,148
+13201,Pittsylvania,148
+13202,Poquoson city,148
+13203,Portsmouth city,148
+13204,Powhatan,148
+13205,Prince Edward,148
+13206,Prince George,148
+13207,Prince William,148
+13208,Pulaski,148
+13209,Radford city,148
+13210,Rappahannock,148
+13211,Richmond,148
+13212,Richmond city,148
+13213,Roanoke,148
+13214,Roanoke city,148
+13215,Rockbridge,148
+13216,Rockingham,148
+13217,Russell,148
+13218,Salem city,148
+13219,Scott,148
+13220,Shenandoah,148
+13221,Smyth,148
+13222,Southampton,148
+13223,Spotsylvania,148
+13224,Stafford,148
+13225,Staunton city,148
+13226,Suffolk city,148
+13227,Surry,148
+13228,Sussex,148
+13229,Tazewell,148
+13230,Virginia,148
+13231,Virginia Beach city,148
+13232,Warren,148
+13233,Washington,148
+13234,Waynesboro city,148
+13235,Westmoreland,148
+13236,Williamsburg city,148
+13237,Winchester city,148
+13238,Wise,148
+13239,Wythe,148
+13240,York,148
+13241,Adams,149
+13242,Asotin,149
+13243,Benton,149
+13244,Chelan,149
+13245,Clallam,149
+13246,Clark,149
+13247,Columbia,149
+13248,Cowlitz,149
+13249,Douglas,149
+13250,Ferry,149
+13251,Franklin,149
+13252,Garfield,149
+13253,Grant,149
+13254,Grays Harbor,149
+13255,Island,149
+13256,Jefferson,149
+13257,King,149
+13258,Kitsap,149
+13259,Kittitas,149
+13260,Klickitat,149
+13261,Lewis,149
+13262,Lincoln,149
+13263,Mason,149
+13264,Okanogan,149
+13265,Pacific,149
+13266,Pend Oreille,149
+13267,Pierce,149
+13268,San Juan,149
+13269,Skagit,149
+13270,Skamania,149
+13271,Snohomish,149
+13272,Spokane,149
+13273,Stevens,149
+13274,Thurston,149
+13275,Wahkiakum,149
+13276,Walla Walla,149
+13277,Washington,149
+13278,Whatcom,149
+13279,Whitman,149
+13280,Yakima,149
+13281,Barbour,150
+13282,Berkeley,150
+13283,Boone,150
+13284,Braxton,150
+13285,Brooke,150
+13286,Cabell,150
+13287,Calhoun,150
+13288,Clay,150
+13289,Doddridge,150
+13290,Fayette,150
+13291,Gilmer,150
+13292,Grant,150
+13293,Greenbrier,150
+13294,Hampshire,150
+13295,Hancock,150
+13296,Hardy,150
+13297,Harrison,150
+13298,Jackson,150
+13299,Jefferson,150
+13300,Kanawha,150
+13301,Lewis,150
+13302,Lincoln,150
+13303,Logan,150
+13304,Marion,150
+13305,Marshall,150
+13306,Mason,150
+13307,McDowell,150
+13308,Mercer,150
+13309,Mineral,150
+13310,Mingo,150
+13311,Monongalia,150
+13312,Monroe,150
+13313,Morgan,150
+13314,Nicholas,150
+13315,Ohio,150
+13316,Pendleton,150
+13317,Pleasants,150
+13318,Pocahontas,150
+13319,Preston,150
+13320,Putnam,150
+13321,Raleigh,150
+13322,Randolph,150
+13323,Ritchie,150
+13324,Roane,150
+13325,Summers,150
+13326,Taylor,150
+13327,Tucker,150
+13328,Tyler,150
+13329,Upshur,150
+13330,Wayne,150
+13331,Webster,150
+13332,West Virginia,150
+13333,Wetzel,150
+13334,Wirt,150
+13335,Wood,150
+13336,Wyoming,150
+13337,Adams,151
+13338,Ashland,151
+13339,Barron,151
+13340,Bayfield,151
+13341,Brown,151
+13342,Buffalo,151
+13343,Burnett,151
+13344,Calumet,151
+13345,Chippewa,151
+13346,Clark,151
+13347,Columbia,151
+13348,Crawford,151
+13349,Dane,151
+13350,Dodge,151
+13351,Door,151
+13352,Douglas,151
+13353,Dunn,151
+13354,Eau Claire,151
+13355,Florence,151
+13356,Fond du Lac,151
+13357,Forest,151
+13358,Grant,151
+13359,Green,151
+13360,Green Lake,151
+13361,Iowa,151
+13362,Iron,151
+13363,Jackson,151
+13364,Jefferson,151
+13365,Juneau,151
+13366,Kenosha,151
+13367,Kewaunee,151
+13368,La Crosse,151
+13369,Lafayette,151
+13370,Langlade,151
+13371,Lincoln,151
+13372,Manitowoc,151
+13373,Marathon,151
+13374,Marinette,151
+13375,Marquette,151
+13376,Menominee,151
+13377,Milwaukee,151
+13378,Monroe,151
+13379,Oconto,151
+13380,Oneida,151
+13381,Outagamie,151
+13382,Ozaukee,151
+13383,Pepin,151
+13384,Pierce,151
+13385,Polk,151
+13386,Portage,151
+13387,Price,151
+13388,Racine,151
+13389,Richland,151
+13390,Rock,151
+13391,Rusk,151
+13392,Saint Croix ,151
+13393,Sauk,151
+13394,Sawyer,151
+13395,Shawano,151
+13396,Sheboygan,151
+13397,St. Croix,151
+13398,Taylor,151
+13399,Trempealeau,151
+13400,Vernon,151
+13401,Vilas,151
+13402,Walworth,151
+13403,Washburn,151
+13404,Washington,151
+13405,Waukesha,151
+13406,Waupaca,151
+13407,Waushara,151
+13408,Winnebago,151
+13409,Wisconsin,151
+13410,Wood,151
+13411,Albany,152
+13412,Big Horn,152
+13413,Campbell,152
+13414,Carbon,152
+13415,Converse,152
+13416,Crook,152
+13417,Fremont,152
+13418,Goshen,152
+13419,Hot Springs,152
+13420,Johnson,152
+13421,Laramie,152
+13422,Lincoln,152
+13423,Natrona,152
+13424,Niobrara,152
+13425,Park,152
+13426,Platte,152
+13427,Sheridan,152
+13428,Sublette,152
+13429,Sweetwater,152
+13430,Teton,152
+13431,Uinta,152
+13432,Washakie,152
+13433,Weston,152
+13434,Wyoming,152
